@@ -1,4 +1,4 @@
-package kystr
+package gokystr
 
 import (
 	"os"

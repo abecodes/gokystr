@@ -1,4 +1,4 @@
-package kystr
+package gokystr
 
 type option func(k *Keystore) error
 
