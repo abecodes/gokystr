@@ -1,5 +1,5 @@
 /*
-package gokystr is a simple implementation of a keystore for private keys.
+Package gokystr is a simple implementation of a keystore for private keys.
 
 A new keystore instance is created of a folder on the filesystem.
 The keystore adds private keyfiles present in the folder on initialization

@@ -17,5 +17,5 @@ var (
 	// Path names must not contain an element that is “.” or “..” or the empty string,
 	// except for the special case that the root directory is named “.”.
 	// Paths must not start or end with a slash: “/x” and “x/” are invalid.
-	ErrWrongDirFormat = errors.New("key extension does not match '.<ext>' format")
+	ErrWrongDirFormat = errors.New("directory is not in a valid format")
 )
